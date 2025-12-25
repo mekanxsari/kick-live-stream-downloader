@@ -5,7 +5,7 @@ while true; do
         echo "saving started"
 
         #write here username of streamer: https://kick.com/username
-        streamlink https://kick.com/erenaktan best -o naaptin.mp4
+        streamlink https://kick.com/username best -o stream.mp4
         exit 0
     else
         echo "we will wait"
